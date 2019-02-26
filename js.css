@@ -1,0 +1,15 @@
+#titre{
+    color: rgb(134, 241, 241);
+    background-color: rgb(134, 129, 129);
+    display: flex;
+    justify-content: center
+}
+#bouton{
+    display: flex;
+    justify-content:center
+}
+#paragraphe{
+    border:dashed 2px green;
+    background-color:pink;
+    text-align:center
+}
